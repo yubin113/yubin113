@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yubins's%20github!&fontSize=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Yubins's%20github&fontSize=50" />
 
 ### <div align="center">I'm YuBin, a backend developer 👨‍💻</div>  
   
