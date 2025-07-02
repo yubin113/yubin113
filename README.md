@@ -52,10 +52,37 @@
 </div>
 
 </td></tr></table>  
-
-<br/>  
  
-
+## 🏆Awards
+<table style="width:100%; border-collapse:collapse; text-align:left; font-family:Arial, sans-serif;">
+  <thead>
+        <tr style="border-bottom: 2px solid #ddd;">
+      <th style="padding:10px;">Date</th>
+      <th style="padding:10px;">Competition</th>
+      <th style="padding:10px;">Award</th>
+    </tr>
+    <tr>
+      <td style="padding:10px;">2023.10</td>
+      <td style="padding:10px;">경남SW대회</td>
+      <td style="padding:10px;">우수상</td>
+    </tr>
+    <tr>
+      <td style="padding:10px;">2024.05</td>
+      <td style="padding:10px;">GNU ICEE 창의도전형 설계기반 아이디어 경진대회</td>
+      <td style="padding:10px;">우수상</td>
+    </tr>
+    <tr>
+      <td style="padding:10px;">2024.11</td>
+      <td style="padding:10px;">삼성 청년 SW 아카데미 프로젝트 경진대회</td>
+      <td style="padding:10px;">우수상(부울경 3반 2등)</td>
+    </tr>
+    <tr>
+      <td style="padding:10px;">2025.04</td>
+      <td style="padding:10px;">삼성 청년 SW 아카데미 특화 프로젝트</td>
+      <td style="padding:10px;">특화 프로젝트 부울경 1반 1등</td>
+    </tr>
+  </tbody>
+</table>
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=yubin113&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
